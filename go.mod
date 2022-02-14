@@ -1,3 +1,3 @@
-module 1.17
+module 1.15
 
-go 1.17
+go 1.15
