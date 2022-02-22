@@ -1,3 +1,3 @@
 module github.com/Carlos-Henrique98/fc2.0-ci-go-second
 
-go 1.17
+go 1.15
